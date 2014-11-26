@@ -1,0 +1,9 @@
+{
+	"name":"UpGrade",
+	"author":"yareczek and Tardan",
+	"version":"0.0.3",
+	"title":"UpGrade",
+	"homepage":"https://github.com/Tardan/factory-mod-UpGrade",
+	"description":"Mod add longer underground belts to the game.",
+	"dependencies": ["base >= 0.11.1"]
+}
